@@ -15,7 +15,7 @@
 	<section id="main">
 	<div>
 		<h1 class="text-align-center">Anna Wintour</h1>
-		<h4 style="text-align: center; margin: 0px">Biography No Autorize</h4>
+		<h4 style="text-align: center;">Biography No Autorize</h4>
 	</div>
 </section>
 
