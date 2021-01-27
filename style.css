@@ -1,8 +1,68 @@
 
-.title {
-	background-image: url(https://images.unsplash.com/photo-1537832816519-689ad163238b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1480&q=80);
-	font-family: "Satisfy"
+#main {
+		background-color: #EBEDF2;
+		font-family: "Satisfy";
+		font-size: 60px;
 
-
-
-}
+  	}
+  	.text-align-center {
+  		text-align: center;
+  		text-color: #014034;
+  		text-shadow: 2px 2px black;
+  		margin-top: 10px;
+  		margin-bottom: 0px;
+  		justify-content: center;
+  	}
+  	#img-div {
+  		margin: 0px;
+  	}
+  	#image {
+  		border: 1px;
+  		border-style: solid;
+  	}
+  	.bodydives {
+  		margin: 0px;
+  		padding: 5px;
+  		flex: column;
+  	}
+  	#about {
+  		background-color: #F2BFAC;
+  		background-opacity: 10%;
+  	}
+  	#img-caption {
+  		img-align: center;
+  		width: 100%;
+  		height: auto;
+  	}
+  	#tribute-info {
+  		font-family: "Montserrat";
+  		font-size: 20px;
+  		line-height: 1.5;
+  	}
+  	#title {
+  		font-family: "Dancing Script";
+  		text-align: center ;
+  		font-size: 100px;
+  		margin: 0px;
+  	}
+  	h3 {
+  		font-family: "Montserrat";
+  		text-align: center;
+  	}
+  	#tribute-link {
+  		color: white;
+  		text-decoration: underline;
+  		font-family: "Montserrat";
+  		font-size: 19px;
+  		margin-left: 14px;
+  	}
+  	h4 {
+  		font-family: "Montserrat";
+  		font-size: 20px;
+  		margin: 0px;
+  	}
+  	h6 {
+  		font-family: "Montserrat";
+  		font-size: 20px;
+  		margin-top: 0px
+  	}
